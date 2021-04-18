@@ -24,3 +24,4 @@ Student = type('Student', (object,), {
 if __name__ == '__main__':
     stu = Student("小明")
     stu.say()
+    print("hello")
